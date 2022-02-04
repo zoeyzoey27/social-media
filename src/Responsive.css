@@ -1,0 +1,769 @@
+@media only screen and (max-width: 1500px){
+    .share-option{
+        padding: 7px 10px;
+    }
+    .share-option-icon{
+        font-size: 18px !important;
+    }
+    .share-option-text{
+        font-size: 14px;
+    }
+    .rightbar-friend-profileImg{
+        width: 120px;
+        height: 120px;
+    }
+}
+@media only screen and (max-width: 1400px){
+    .rightbar-friend-profileImg{
+        width: 110px;
+        height: 110px;
+    }
+}
+@media only screen and (max-width: 1290px){
+    .rightbar-friend-profileImg{
+        width: 100px;
+        height: 100px;
+    }
+}
+@media only screen and (max-width: 1251px){
+    .search-box{
+        width: 80%;
+    }
+    .search-input{
+        width: 70%;
+    }
+    .share-option{
+        padding: 7px;
+    }
+    .share-option-icon{
+        font-size: 15px !important;
+    }
+    .share-option-text{
+        font-size: 13px;
+    }
+   
+}
+@media only screen and (max-width: 1190px){
+    .rightbar-friend-profileImg{
+        width: 90px;
+        height: 90px;
+    }
+}
+@media only screen and (max-width: 1126px){
+    .sidebar{
+        display: none;
+    }
+    .share-option-icon{
+        font-size: 18px !important;
+    }
+    .share-option-text{
+        font-size: 14px;
+    }
+    .topbar-links{
+        display: none;
+    }
+    .rightbar-friend-profileImg{
+        width: 110px;
+        height: 110px;
+    }
+    .login-left{
+        flex: 5;
+    }
+    .login-logo{
+        font-size: 40px;
+      }
+    .login-desc{
+        font-size: 18px;
+    }
+    .login-right{
+        flex: 7;
+    }
+}
+@media only screen and (max-width: 980px){
+    .rightbar-friend-profileImg{
+        width: 100px;
+        height: 100px;
+    }
+}
+@media only screen and (max-width: 905px){
+    .feed{
+        flex: 6;
+    }
+    .rightbar{
+        flex: 3;
+    }
+    .birthday-img{
+        width: 25px;
+        height: 25px;
+      }
+    .birthday-text{
+        font-size: 12px;
+      }
+    .rightbar-username{
+        font-size: 14px;
+    } 
+    .rightbar-friend-profileImg{
+        width: 80px;
+        height: 80px;
+    } 
+    .rightbar-info-key{
+        flex: 1.5;
+        font-size: 18px;
+      }
+    .rightbar-info-value{
+        flex: 10.5;
+        font-size: 14px;
+     }
+    .input-form{
+        padding: 10px 15px;
+        font-size: 14px;
+    } 
+    .btn-login{
+        font-size: 14px;
+    }
+    .forgot-password{
+        font-size: 12px;
+    }
+    .btn-register{
+        font-size: 14px;
+    }
+    .login-logo{
+        font-size: 32px;
+    }
+    .login-desc{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 830px){
+    .rightbar.home-rightbar{
+        display: none;
+    }
+    .profile-right-bottom{
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    .profile-right-bottom.about{
+        flex-direction: column;
+    }
+    .rightbar-info-key{
+        flex: 1;
+        font-size: 20px;
+      }
+    .rightbar-info-value{
+        flex: 11;
+        font-size: 16px;
+     }
+    .profile-rightbar-title{
+         font-size: 22px;
+     }
+    .rightbar-friend-profileImg{
+        width: 230px;
+        height: 230px;
+    } 
+    .rightbar-friend-name{
+        font-size: 16px;
+    }
+    .about-left{
+        border-right: 0;
+        border-bottom: 1px solid #ccc;
+        width: 100%;
+    }
+    .about-right{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 790px){
+    .rightbar-friend-profileImg{
+        width: 200px;
+        height: 200px;
+    } 
+    .login-wrapper{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+    .login-left{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        margin: 25px;
+    }
+    .login-logo{
+        text-align: center;
+    }
+    .login-desc{
+        text-align: center; 
+    }
+    .login-right{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+  
+}
+@media only screen and (max-width: 685px){
+    .rightbar-friend-profileImg{
+        width: 190px;
+        height: 190px;
+    } 
+}
+@media only screen and (max-width: 660px){
+    .topbar-left .logo{
+        font-size: 16px;
+    }
+    .icon-item{
+        font-size: 16px;
+    }
+    .topbar-icon-badge{
+        font-size: 7px;
+      }
+    .topbar-img.top{
+        width: 40px;
+        height: 40px; 
+    } 
+    .share-btn{
+        width: 25%;
+    }
+    .rightbar-friend-profileImg{
+        width: 180px;
+        height: 180px;
+    } 
+    .listfriend-bottom-name{
+        font-size: 13px;
+    }
+    .listfriend-bottom-img{
+        width: 70px;
+        height: 70px;
+    }
+    .listfriend-bottom-icon{
+        font-size: 13px;
+    }
+    .listfriend-bottom-item{
+        padding: 10px;
+    }
+    .listfriend-bottom-info{
+        width: calc(100% - 80px);
+    }
+    .listfriend-top-left .about-left-title{
+        font-size: 20px;
+    }
+    .friend-request{
+        font-size: 14px;
+    }
+    .listfriend-search-box{
+        width: 220px;
+        padding: 5px 15px;
+    }
+}    
+@media only screen and (max-width: 610px){
+    .rightbar-friend-profileImg{
+        width: 160px;
+        height: 160px;
+    } 
+    .rightbar-friend-name{
+        font-size: 13px;
+    }
+    .profile-rightbar-title{
+        font-size: 18px;
+    }
+}
+@media only screen and (max-width: 553px){
+    .topbar-img.top{
+        display: none;
+    }
+    .share-option-icon{
+        font-size: 15px !important;
+    }
+    .share-option-text{
+        font-size: 13px;
+    }
+    .search-box.search-show-1{
+        display: none;
+    }
+    .search-box.search-show-2{
+        display: flex;
+    }
+    .share-profile-img{
+        width: 40px;
+        height: 40px;
+    }
+    .rightbar-friend-profileImg{
+        width: 140px;
+        height: 140px;
+    } 
+    .listfriend-bottom-img{
+        width: 50px;
+        height: 50px;
+    }
+    .listfriend-bottom-info{
+        width: calc(100% - 60px);
+    }
+    .listfriend-bottom-name{
+        font-size: 12px;
+    }
+   
+}
+@media only screen and (max-width: 517px){
+    .share-option.share-option-emoji{
+        display: none;
+    }
+    .share-option-icon{
+        font-size: 18px !important;
+    }
+    .share-option-text{
+        font-size: 14px;
+    }
+    .topbar-left{
+        flex: 4;
+    }
+    .top-center{
+        flex: 3;
+    }
+    .rightbar-friend-profileImg{
+        width: 130px;
+        height: 130px;
+    } 
+    .listfriend-top-left .about-left-title{
+        font-size: 18px;
+    }
+    .friend-request{
+        font-size: 12px;
+    }
+    .listfriend-search-box{
+        width: 180px;
+        padding: 5px 15px;
+    }
+    .listfriend-input{
+        padding: 3px;
+    }
+}
+@media only screen and (max-width: 470px){
+    .search-box-down-container{
+        width: 250px;
+    }
+    .post-bottom-option-text{
+        font-size: 14px;
+    }
+    .post-bottom-right-text{
+        font-size: 13px;
+    }
+    .post-like-counter{
+        font-size: 14px;
+    }
+    .profile-menu-option{
+        padding: 10px;
+        font-size: 14px;
+    }
+    .rightbar-friend-profileImg{
+        width: 120px;
+        height: 120px;
+    } 
+    .about-right-info-item-icon,
+    .about-right-info-item-icon-add-new{
+        flex: 1.5;
+    }
+    .about-right-info-item-value{
+        flex: 10.5;
+    }
+    .listfriend-bottom-name{
+        font-size: 11px;
+    }
+    .listfriend-bottom-img{
+        width: 40px;
+        height: 40px;
+    }
+    .listfriend-bottom-info{
+        width: calc(100% - 50px);
+    }
+    .listfriend-search-box.show-1{
+        display: none;
+    }
+    .listfriend-search-box.show-2{
+        display: flex;
+    }
+    .login-wrapper{
+        width: 80%;
+        height: 80%;
+    }    
+    .login-desc{
+        font-size: 12px;
+    }
+    .input-form{
+        padding: 10px;
+        font-size: 12px;
+    }
+    .btn-login{
+        font-size: 12px;
+    }
+    .btn-register{
+        font-size: 12px;
+    }
+    .forgot-password{
+        font-size: 11px;
+    }
+ 
+}
+@media only screen and (max-width: 430px){
+    .topbar-left .logo{
+        font-size: 14px;
+    }
+    .topbar-left{
+        flex: 5;
+    }
+    .top-center{
+        flex: 2;
+    }
+    .post-bottom-option-text{
+        font-size: 12px;
+    }
+    .share-input{
+        width: 80%;
+        padding: 8px 15px;
+    }
+    .rightbar-friend-profileImg{
+        width: 110px;
+        height: 110px;
+    } 
+    .listfriend-bottom{
+        grid-template-columns: 1fr;
+    }
+}
+@media only screen and (max-width: 401px){
+    .post-bottom-option-icon{
+        margin-right: 5px;
+      }
+    .post-bottom-option{
+        padding: 5px 10px;
+    }  
+    .topbar-menu-down-icon{
+        width: 25px;
+        height: 25px;
+    }
+    .profile-cover{
+        height: 300px;
+    }
+    .profile-cover-img{
+        height: 200px;
+    }
+    .profile-user-img{
+        top: 130px;
+    }
+    .rightbar-friend-profileImg{
+        width: 100px;
+        height: 100px;
+    } 
+    .rightbar-friend-name{
+        font-size: 12px;
+    }
+    .rightbar-info-key{
+        flex: 1.5;
+    }
+    .rightbar-info-value{
+        flex: 10.5;
+    }
+    .listfriend-search-box-down-container{
+        width: 200px;
+    }
+    .login-logo{
+        font-size: 25px;
+    }
+    .login-desc,
+    .input-form,
+    .btn-login,
+    .btn-register{
+        font-size: 11px;
+    }
+
+  
+}
+@media only screen and (max-width: 375px){
+    .search-box-down-container{
+        width: 210px;
+    }
+    .search-box-down .search-icon{
+        font-size: 13px;
+    }
+    .search-input{
+        padding: 0;
+        font-size: 13px;
+    }
+    .share-option-icon{
+        font-size: 15px !important;
+    }
+    .share-option-text{
+        font-size: 13px;
+    }
+    .listfriend-search-box-down-container{
+        width: 180px;
+    }
+    
+}
+@media only screen and (max-width: 352px){
+    .search-box{
+        padding: 5px 10px;
+    }
+    .search-box.search-show-2 .search-icon{
+        font-size: 12px;
+    }
+    .topbar-left{
+        flex: 6;
+    }
+    .top-center{
+        flex: 1;
+    }
+    .topbar-left .logo{
+        font-size: 13px;
+    }
+    .post-bottom-option{
+        padding: 5px;
+    }  
+    .post-bottom-right-text{
+        font-size: 11px;
+    }
+    .post-like-counter{
+        font-size: 12px;
+    }
+    .post-bottom-option-icon{
+        font-size: 14px;
+    }
+    .like-icon{
+        width: 15px;
+        height: 15px;
+    }
+    .post-bottom-like-icon{
+        width: 20px;
+        height: 20px;
+    }
+    .post-bottom-like-icon:hover{
+        width: 25px;
+        height: 25px;
+    }
+    .post-profileImg{
+        width: 40px;
+        height: 40px;
+    }
+    .post-username{
+        font-size: 14px;
+    }
+    .post-comment-img{
+        width: 30px;
+        height: 30px;
+    }
+    .post-comment-input{
+        padding: 0;
+    }
+    .post-comment-icon{
+        font-size: 14px;
+    }
+    .post-cap{
+        font-size: 14px;
+    }
+    .share-btn{
+        width: 30%;
+        font-size: 13px;
+    }
+    .rightbar-friend-profileImg{
+        width: 90px;
+        height: 90px;
+    } 
+    .rightbar-friend-name{
+        font-size: 11px;
+    }
+    .profile-menu-option{
+        font-size: 13px;
+    }
+    .rightbar-info-key{
+        font-size: 15px;
+    }
+    .rightbar-info-value{
+        font-size: 15px;
+    }
+    .profile-info-name{
+        font-size: 20px;
+    }
+    .profile-info-decs{
+        font-size: 12px;
+    }
+    .about-right-info-item-icon,
+    .about-right-info-item-icon-add-new{
+        flex: 2;
+        font-size: 16px;
+    }
+    .about-right-info-item-icon-add-new i{
+        font-size: 16px;
+        padding: 3px;
+    }
+    .about-right-info-item-value{
+        flex: 10;
+    }
+    .about-left-title{
+        font-size: 20px;
+    }
+    .about-left-option-item{
+        font-size: 14px;
+    }
+    .about-right-info-item-text{
+        font-size: 14px;
+    }
+    .about-right-info-item-option-more{
+        font-size: 12px;
+    }
+    .listfriend-search-box-down-container{
+        width: 150px;
+    }
+}    
+
+@media only screen and (max-width: 338px){
+    .share-option-text{
+        font-size: 12px;
+    }
+    .share-option-icon{
+        font-size: 10px;
+    }
+    .share-option{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    .topbar-menu-down-box{
+        width: 230px;
+        padding: 10px;
+    }
+    .topbar-menu-down-profile .topbar-img{
+        width: 35px;
+        height: 35px;
+    }
+    .topbar-menu-down-profile-name{
+        font-size: 14px;
+    }
+    .topbar-menu-down-profile-desc{
+        font-size: 11px;
+    }
+    .optionMenu-item-icon{
+        font-size: 12px;
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+    }
+    .optionMenu-item-title{
+        font-size: 14px;
+    }
+    .listfriend-search-box-down-container{
+        width: 130px;
+    }
+    .search-friend-icon-down{
+        font-size: 12px;
+    }
+    .listfriend-search-box-down-input{
+        font-size: 12px;
+    }
+    .login-wrapper{
+        width: 90%;
+        height: 90%;
+    }    
+}
+@media only screen and (max-width: 312px){
+    
+    .search-box-down-container{
+        width: 180px;
+        padding: 10px;
+    }    
+    .post-bottom-option-text{
+        font-size: 11px;
+    }
+    .post-bottom-option-icon{
+        font-size: 11px;
+    }
+    .share-btn{
+        font-size: 12px;
+    }
+    .post-cap{
+        font-size: 13px;
+    }
+    .topbar-left .logo{
+        font-size: 12px;
+    }
+    .profile-cover{
+        height: 240px;
+    }
+    .profile-cover-img{
+        height: 150px;
+    }
+    .profile-user-img{
+        width: 120px;
+        height: 120px;
+        top: 100px;
+    }
+    .profile-menu-option{
+        padding: 5px;
+    }
+    .rightbar-friend-profileImg{
+        width: 80px;
+        height: 80px;
+    }
+    .rightbar-friend-name{
+        font-size: 10px;
+    }
+    .rightbar-info-value{
+        font-size: 14px;
+    }
+    .listfriend-search-box-down-container{
+        width: 110px;
+    }
+    .search-friend-icon-down{
+        font-size: 11px;
+    }
+    .listfriend-search-box-down-input{
+        font-size: 11px;
+    }
+    .listfriend-top-left .about-left-title{
+        font-size: 14px;
+    }
+    .friend-request{
+        font-size: 11px;
+    }
+    .listfriend-search-icon{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 287px){
+    .post-bottom-option-text{
+        font-size: 10px;
+    }
+    .share-btn{
+        width: 40%;
+    }
+    .share-profile-img{
+        width: 35px;
+        height: 35px;
+    }
+    .share-input{
+        width: 70%;
+    }
+    .profile-menu-option{
+        font-size: 12px;
+    }
+    .about-right-info-item-icon,
+    .about-right-info-item-icon-add-new{
+        font-size: 14px;
+    }
+    .about-right-info-item-icon-add-new i{
+        font-size: 14px;
+
+    }
+    .about-left-title{
+        font-size: 17px;
+    }
+    .about-left-option-item{
+        font-size: 13px;
+    }
+    .about-right-info-item-text{
+        font-size: 13px;
+    }
+    .about-right-info-item-option-more{
+        font-size: 11px;
+    }
+}
